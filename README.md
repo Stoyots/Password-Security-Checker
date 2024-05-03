@@ -45,7 +45,8 @@ Contributions are welcome. To contribute, please follow these steps:
 
 ## Contact
 
-Tom - [@tonnom](https://twitter.com/tonnom) - tom.benchetrit@gmail.com
+tom.benchetrit@gmail.com
+https://github.com/Stoyots
 
 Project created as part of my training at ADA Tech School.
 
